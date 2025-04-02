@@ -1,4 +1,4 @@
-# Your title
+# Hardware agent proof of concept
 
 ## Relevant Links
 
@@ -33,11 +33,11 @@ There are various scripts that support devops checkin-gates and utilities:
 ## Repo Structure
 
 #### Top-level module
-The `<TODO>` dir is the top level module. This internally contains three subgroups:
-1. model: contains model code and utility scripts
-2. analysis: for plotting
-3. rl: applying the model to different rl tasks
-4. benchmarks: applying the model to non-rl benchmarks
+The `agent` dir is the top level module. This internally contains three subgroups:
+1. TODO
+2. TODO
+3. TODO
+4. TODO
 
 #### Scripts
 The `./scripts` dir contains the same scripts that run all the checkin / CI automation to facilitate running locally. As well as other utilities.
